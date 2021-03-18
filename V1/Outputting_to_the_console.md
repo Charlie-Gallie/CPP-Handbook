@@ -1,6 +1,6 @@
 # Outputting to the console
 
-### Example
+## Example
 
 `A`
 ```cpp
@@ -39,7 +39,7 @@ int main(){
 }
 ```
 
-### Explanation
+## Explanation
 
 The standard library contains `cout` which stands for "character output". Using this function allows you to output text to the console. The `<<` operator allows you to concatenate text.
 
